@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&fontSize=30&text=Hollo&desc=can%20do%20it)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&fontSize=30&text=반가워요😆&desc=can%20do%20it)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevertheless0404&show)icons=true&them=Gradient)
 
-🙌 KDT 1기 
-
-✏️ Studying
 
 <!--
 **nevertheless0404/nevertheless0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
