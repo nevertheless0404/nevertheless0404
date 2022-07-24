@@ -9,7 +9,7 @@
 # ✏️keep studying
 - [TIL](https://github.com/nevertheless0404/TIL)
    -> KDT 실무 맞춤형 풀스택 개발 동안 학습한 것을 요약/정리 
-      python은 따로 정리함!
+   -> python은 따로 정리함!
 - [test-05](https://github.com/nevertheless0404/test-05)
    -> 깃헙에서 Fork & full Request하는 방법 
 - [job_reserch](https://github.com/nevertheless0404/job-research)
