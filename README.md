@@ -15,7 +15,7 @@
 -   sw 직군 채용 공고 정보들을 서치/기록하면서 개발자가 되기 위해 갖추야할 개발 역략을 확인하고, 학습방법을 찾기위해
 - (Python)[https://github.com/nevertheless0404/Python-]
 -   Python에 대한 요약/정리 그리고 실습과정
--(01-PJT-01)[https://github.com/nevertheless0404/01-PJT-01]
+- (01-PJT-01)[https://github.com/nevertheless0404/01-PJT-01]
 -   python에 대해서 배우고 첫 번째 프로젝트 
 - (01-PJT-02)[https://github.com/nevertheless0404/01-PJT-02]
 -   두 번째 프로젝트 
