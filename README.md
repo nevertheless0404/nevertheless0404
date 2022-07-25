@@ -20,7 +20,7 @@
    -  python에 대해서 배우고 첫 번째 프로젝트 
 - [01-PJT-02](https://github.com/nevertheless0404/01-PJT-02)
    -  두 번째 프로젝트 
-- [알고리즘](https://github.com/nevertheless0404/TIL/tree/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%2022.07.25)
+- [01-ALGORITHM](https://github.com/nevertheless0404/TIL/tree/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%2022.07.25)
    -  알고리즘 연습(코딩테스트)
 <!--
 **nevertheless0404/nevertheless0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
