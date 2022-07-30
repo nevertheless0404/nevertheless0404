@@ -22,7 +22,7 @@
    -  두 번째 프로젝트 
 - [01-ALGORITHM](https://github.com/nevertheless0404/01-ALGORITHM/tree/example/1%ED%9A%8C%EC%B0%A8/%EA%B9%80%EC%9C%A0%EC%98%81)
    - 알고리즘 실습
-- [01-PJT-03]
+- [01-PJT-03](https://github.com/nevertheless0404/01-PJT-03/tree/example/1%ED%9A%8C%EC%B0%A8/%EA%B9%80%EC%9C%A0%EC%98%81)
    - 알고리즘 모의고사 01
 
 <!--
