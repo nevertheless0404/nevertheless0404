@@ -1,6 +1,8 @@
 # Hello 😁
 우리 함께 프로 개발자가 되보아요!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevertheless)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # ✔️status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevertheless0404&show)
