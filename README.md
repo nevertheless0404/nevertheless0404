@@ -2,8 +2,6 @@
 우리 함께 프로 개발자가 되보아요!
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=krardent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevertheless)
-
 
 # ✔️status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevertheless0404&show)
