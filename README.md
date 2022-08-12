@@ -26,6 +26,8 @@
    - 알고리즘 모의고사 01
 - [01-PJT-04](https://github.com/nevertheless0404/01-PJT-04/tree/example/1%ED%9A%8C%EC%B0%A8/%EA%B9%80%EC%9C%A0%EC%98%81)
    - 알고리즘 모의고사 02
+- [01-PJT-05](https://github.com/nevertheless0404/01-PJT-05/tree/example/1%ED%9A%8C%EC%B0%A8/%EA%B9%80%EC%9C%A0%EC%98%81)
+   - 알고리즘 모의고사 03
 <!--
 **nevertheless0404/nevertheless0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
