@@ -4,7 +4,7 @@
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=krardent)
 
 # ✔️status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevertheless0404&show)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nevertheless0404)](https://solved.ac/nevertheless0404)<br/>
 
 
 # ✏️keep studying
