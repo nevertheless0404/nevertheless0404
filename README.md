@@ -1,7 +1,7 @@
 # Hello 😁
 우리 함께 프로 개발자가 되보아요!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nevertheless0404)](https://solved.ac/nevertheless0404)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krardent)](https://solved.ac/krardent)
 
 
 # ✏️keep studying
