@@ -30,6 +30,8 @@
    - 혼자 천천히 해보는 알고리즘(코딩) 공부
 - [Keep_studying](https://github.com/nevertheless0404/Keep_studying)
    - 알고리즘 공부 새로운 파일 
+- [todo_prj01](https://github.com/nevertheless0404/todo_prj01)
+   - 페어 프로젝트
 <!--
 **nevertheless0404/nevertheless0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
