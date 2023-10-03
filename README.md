@@ -1,4 +1,4 @@
-# Hello 😁
+# HIHI 😁
 우리 함께 프로 개발자가 되보아요!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=krardent)](https://solved.ac/krardent)
